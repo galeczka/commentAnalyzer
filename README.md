@@ -1,6 +1,6 @@
 # commentAnalyzer
 
-Logistic regression model, based on words and emoticons appearance.
+It is a part of bigger project of analyzing instagram profiles. Contains logistic regression model, based on words and emoticons appearance.
 Easily importable with just a few funcitons in main.py.
 Based on small dataset yet can be easily fed with more data. (create() function in model.py)
 
